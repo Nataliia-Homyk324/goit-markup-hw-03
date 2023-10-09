@@ -216,20 +216,24 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
-    text-align: center;
     margin-bottom: 8px;
 
 
 }
 
+.title-name{
+    text-align: center;
+}
 .paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+   
+}
+.paragraph-name{
     text-align: center;
 }
-
 .paragraph-section-four {
     display: block;
     font-size: 16px;
