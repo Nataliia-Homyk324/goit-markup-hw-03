@@ -49,6 +49,7 @@ a {
 }
 .container-header{
     display: flex;
+    flex-direction: row;
 }
 .nav {
     display: flex;
