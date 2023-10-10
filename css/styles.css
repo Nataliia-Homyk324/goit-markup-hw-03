@@ -276,7 +276,11 @@ a {
 }
 
 .worker {
-    padding: 32px 0;
+    
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .list-section-four {
